@@ -7,6 +7,7 @@ export const Container = styled.div`
     align-items:center;
     justify-content:space-evenly;
     padding:20px;
+    height:100vh;
     `
 
 export const ContainerUsers = styled.div`
